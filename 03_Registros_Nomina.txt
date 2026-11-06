@@ -1,0 +1,7 @@
+REGISTROS DE NOMINA - TransCaribeCol
+Nombre               | Tipo            | Cargo              | HT    | Salario      | HE    | TPHE       | Salud      | Pension    | ARL      | Total a pagar
+--------------------------------------------------------------------------------------------------------------
+Milton Escamilla     | ADMINISTRATIVO  | Gerente            | 60    | 1200000      | 0     | 0          | 0          | 0          | 6264     | 1193736
+Daniel Perez         | OPERATIVO       | Conductor          | 160   | 6400000      | 0     | 0          | 320000     | 409600     | 26726    | 5643674
+Juan Solano          | OPERATIVO       | Oficios Generales  | 100   | 4000000      | 0     | 0          | 200000     | 256000     | 8352     | 3535648
+Luis Alvarez         | OPERATIVO       | Vigilancia         | 336   | 13440000     | 0     | 0          | 672000     | 860160     | 233856   | 11673984
